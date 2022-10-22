@@ -16,7 +16,7 @@
             <li>Panasonic</li>
             <li>Motorola</li>
         </ul>
-        <ol>
+        <ol type="A">
             <li>Samsung</li>
             <li>Apple</li>
             <li>Huawei</li>
