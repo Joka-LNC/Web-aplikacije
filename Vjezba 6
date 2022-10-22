@@ -24,7 +24,7 @@
             <li>Motorola</li>
         </ol>
         <ul>
-           <li>Samsung</li>
+           <li>Samsung
             <ul>
                 <li>Galaxy A3</li>
                 <li>Galaxy S4</li>
@@ -33,15 +33,16 @@
                 <li>Galaxy S6 Edge</li>
                 <li>Galaxy S7</li>
                 <li>Galaxy S7 Edge</li>
-            </ul>
-           <li>Apple</li>
+            </ul></li>
+           <li>Apple
             <ul>
                 <li>Iphone 6s</li>
                 <li>Iphone 6s Plus</li>
                 <li>Iphone 7s</li>
                 <li>Iphone 7s Plus</li>
                 <li>Ipad mini 4</li>
-            </ul> 
+            </ul></li>
+        
         </ul>
 	</body>
 </html>
